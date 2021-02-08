@@ -29,9 +29,10 @@
 #### 技术栈
 HTML+CSS+JS+Vue+Element UI
 
-1.  前端采用Vue全家桶开发（vue-cli + vue2.6 + vuex + vue-router + axios），响应式框架采用element-ui桌面端组件库
-2.  本项目的网页UI具有简洁、大方和易于使用的特点，主要参考自Kiftd（青阳网络文件传输系统）
-3.  本项目使用了多个开源项目，主要有particles.js（轻量级粒子背景库）、Viewer.js（强大的图片查看器）、APlayer（超级好看的 HTML5 音乐播放器）、DPlayer（支持弹幕的 HTML5 视频播放器）、Ace（基于浏览器的代码编辑器）
+1.  本系统采用前后端分离的开发方式，前端和后端分别新建一个项目，各自独立开发，互不干扰，彼此之间通过json数据进行交互
+2.  前端采用Vue全家桶开发（vue-cli + vue2.6 + vuex + vue-router + axios），响应式框架采用element-ui桌面端组件库
+3.  本项目的网页UI具有简洁、大方和易于使用的特点，主要参考自Kiftd（青阳网络文件传输系统）
+4.  本项目使用了多个开源项目，主要有particles.js（轻量级粒子背景库）、Viewer.js（强大的图片查看器）、APlayer（超级好看的 HTML5 音乐播放器）、DPlayer（支持弹幕的 HTML5 视频播放器）、Ace（基于浏览器的代码编辑器）
 
 #### 功能特性
 
